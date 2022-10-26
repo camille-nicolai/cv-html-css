@@ -1,0 +1,47 @@
+.infoperso{
+   
+    color: rgb(211, 18, 18);
+  
+}
+
+strong {
+    color: blue;
+}
+.sec-gauche1{
+  text-align: right;
+}
+.sec-droite1{
+    text-align: left;
+  }
+.sec-gauche2{
+    text-align: right;
+  }
+.sec-droite2{
+  text-align: left;
+}
+.sec-gauche3{
+  text-align: right;
+}
+.sec-droite3{
+  text-align: left;
+}
+.sec-gauche4{
+  text-align: right;
+}
+.sec-droite4{
+  text-align: left;
+}
+section{
+    background-color: rgb(225, 217, 138);
+    border-style: inset;
+    border-width: 12px;
+    display: flex;
+    justify-content: space-between;
+    border-color: rgb(55, 214, 79);
+    margin: 1px;
+    color: rgb(58, 33, 12);
+    border-block-color: green;
+  }
+footer{
+  color: red;
+}
